@@ -3,9 +3,9 @@
   "name": "Basic preview",
   "metadata": { "openmaptiles:version": "3.x" },
   "sources": {
-    "openmaptiles": { "type": "vector", "url": "http://[::]:8080/data/v3.json" }
+    "openmaptiles": { "type": "vector", "url": "https://api.maptiler.com/tiles/a9351e32-385b-4345-bc72-22ea61d3eb1b/tiles.json?key=4Q9apXA4yFaH4AyoSDkb" }
   },
-  "glyphs": "http://[::]:8080/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
