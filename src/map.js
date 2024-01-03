@@ -9,8 +9,8 @@ MapLibreGL.setRTLTextPlugin(
   true
 );
 
-export const map = new maplibregl.Map({
-  container: 'map', // container id
+export const map = new MapLibreGL.Map({
+  container: 'map',
   style: {
     version: 8,
     glyphs: '/fonts/{fontstack}/{range}.pbf',

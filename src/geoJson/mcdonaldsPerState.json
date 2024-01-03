@@ -45,7 +45,7 @@
   },
   {
     "STATE": "California",
-    "Number of McDonald's": "1,165",
+    "Number of McDonald's": 1165,
     "Number of Payday Lenders": "2,451",
     "How many more Payday Lenders?": 1286,
     "RANK": 1,
@@ -154,7 +154,7 @@
     "Rank": 40
   },
   {
-    "STATE": "Iowa (corrupt data?)",
+    "STATE": "Iowa",
     "Number of McDonald's": 131,
     "Number of Payday Lenders": "412(in dispute)",
     "How many more Payday Lenders?": 281,
